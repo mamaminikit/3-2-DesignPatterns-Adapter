@@ -3,7 +3,7 @@
 > Group of Structural Design Patterns 🚶🏻‍♂️🚶🏻‍♂️
 
 > [!NOTE]
-> Adapter Design Patterns 🏭
+> Adapter Design Patterns 🔌
 
 - This program works to create an interface to adapt the class file for the app.java.
 - When file.class has the method parseFromCSV() but the other method is a parseCSV().
